@@ -1,2 +1,1 @@
-number = 42 / 6
-puts number
+puts 42 / 6
