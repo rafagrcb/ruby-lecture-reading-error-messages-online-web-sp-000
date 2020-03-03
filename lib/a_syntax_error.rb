@@ -1,3 +1,6 @@
 x = 1
-
-x = 
+puts x
+def x
+1
+end
+puts number

@@ -1,3 +1,5 @@
-1 + 1
-
-1 + "is the loneliest number"
+irb
+1 + 1 
+end
+irb
+"I am" + "is the loneliest number"
